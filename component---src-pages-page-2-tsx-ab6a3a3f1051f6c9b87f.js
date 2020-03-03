@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"+xhR":function(e,n,t){"use strict";t.r(n);var a=t("mXGw"),c=t("/ZiB"),i=t("J0Kf");n.default=function(){return a.createElement(i.a,{title:"Second Page"},a.createElement(c.a,{variant:"h2"},"Second Page"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-tsx-ab6a3a3f1051f6c9b87f.js.map
