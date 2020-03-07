@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{NehX:function(t,e,n){"use strict";n.r(e);var i=n("mXGw"),r=n("QDLI");e.default=function(){return i.createElement(r.a,{title:"Artist"})}}}]);
-//# sourceMappingURL=component---src-pages-artist-tsx-81c9b9313fbb447c7824.js.map
