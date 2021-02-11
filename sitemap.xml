@@ -162,18 +162,18 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/program/20200160</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/program/20200161</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/program/20200162</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/0、8秒と衝撃。/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/04 Limited Sazabys/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/0、8秒と衝撃。/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/10-FEET/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/18 Wheeler/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/19/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The 5th Dimension/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/9mm Parabellum Bullet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/AC/DC/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/advantage Lucy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/AL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ARB/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Aerosmith/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Age Factory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/AL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Alcest/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/[ALEXANDROS]/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Alvvays/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -184,7 +184,6 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Andrew W.K./</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Angel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Anthrax/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ARB/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Arctic Monkeys/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Arkona/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Asia/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -194,43 +193,49 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Awesome City Club/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Aztec Camera/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/B-DASH/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/back number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BAKU/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BAND-MAID/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BARBEE BOYS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BB Brunes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BEAT CRUSADERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE BELL’S/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BLANKY JET CITY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BLIZARD/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE BLUE HEARTS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE BOOM/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BOW WOW/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BOØWY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BRAHMAN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BUCK-TICK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BUGY CRAXONE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BUMP OF CHICKEN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BURNOUT SYNDROMES/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BUZZ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bad Company/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bad Religion/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Baker Gurvitz Army/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BAKU/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Band/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Band Aid/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BAND-MAID/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BARBEE BOYS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bay City Rollers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BB Brunes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Be Modern/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Beach Boys/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Beastie Boys/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BEAT CRUSADERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Beatles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bee Gees/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Belinda Carlisle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE BELL’S/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Belle And Sebastian/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Belly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Beths/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/bice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BiS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Big Brother and the Holding Company/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Big Country/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Big Star/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Big Thief/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Billy Idol/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Billy Joel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BiS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Black Sabbath/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BLANKY JET CITY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BLIZARD/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Blo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Blondie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/bloodthirsty butchers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE BLUE HEARTS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Blue Öyster Cult/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Blues Brothers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Blur/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -239,52 +244,40 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bodyslam/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bon Jovi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bonnie Tyler/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE BOOM/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Boomtown Rats/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BOØWY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Boston/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BOW WOW/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bow Wow Wow/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BRAHMAN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Brecker Brothers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Brigitte Bardot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/the brilliant green/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bruce Springsteen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bryan Adams/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Bubble Puppy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BUCK-TICK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Buffalo Daughter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Buggles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BUGY CRAXONE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Bulls/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BUMP OF CHICKEN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BURNOUT SYNDROMES/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/BUZZ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Byrds/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/C-C-B/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/CASCADE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/CHAI/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/CHICKS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE COLLECTORS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Cactus/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Caetano Veloso/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/caino/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Canned Heat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Capability Brown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Captain Beyond/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Cardigans/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Carole King/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/CASCADE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/cero/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/CHAI/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Chameleons/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Char/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Charlene/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Cheap Trick/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Chicago/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/CHICKS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Christina Aguilera/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Chuck Berry/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Clash/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Cocteau Twins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Coldplay/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE COLLECTORS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Condition Green/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Cornelius/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Crabby Appleton/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -298,6 +291,8 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Czecho No Republic/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/D.A.N/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/D.W.ニコルズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/DEAD END/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/DOG HAIR DRESSERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Damned/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Darkness/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Daryl Hall and John Oates/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -305,7 +300,6 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/David Bowie/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/David Lee Roth/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Davie Allan And The Arrows/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/DEAD END/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Deep Purple/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Deerhoof/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Def Leppard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -313,32 +307,32 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Dewa/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Diamond Head/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Dio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/dip/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/DOG HAIR DRESSERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Don Peris/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Donovan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Doors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Dr. Feelgood/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Du Blonde/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Duran Duran/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Eagles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/EARTHSHAKER/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/eastern youth/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Echo &amp; the Bunnymen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ECHOES/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ELLEGARDEN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Eagles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Echo &amp; the Bunnymen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Edenbridge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Edgar Winter Group/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Electric Light Orchestra/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Electric Sun/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Elf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ELLEGARDEN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Elvis Costello/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Emitt Rhodes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Episode Six/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Eric Johnson/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Erkin Koray/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/esrevnoc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Europe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/FLATBACKER/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/FLYING KIDS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/FREENOTE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE FUSE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Fairground Attraction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Fastway/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Faye Wong/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -347,55 +341,52 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Fire/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Fishbone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Flash &amp; the Pan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/FLATBACKER/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Fleetwood Mac/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Flipper’s Guitar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Flirtations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Flogging Molly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Flor De Loto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/FLYING KIDS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Focus/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/FoZZtone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Focus/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/France Gall/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Françoise Hardy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Frank Zappa/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Frankie Cosmos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Françoise Hardy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Free/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/FREENOTE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Fu Manchu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Funkees/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE FUSE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/G-Force/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GASTUNK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GAUCH!/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GBH/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GLAY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GLIM SPANKY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GO!GO!7188/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GO-BANG&#039;S/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GOING STEADY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GOING UNDER GROUND/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GRAPEVINE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GREAT3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/가호/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Gal Costa and Gilberto Gil/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Galileo Galilei/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Gamma Ray/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Gary Moore/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GASTUNK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GAUCH!/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GBH/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Generation X/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Gigolo Aunts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Gillan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GLAY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Glenn Hughes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GLIM SPANKY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GO-BANG&#039;S/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Go! Team/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GO!GO!7188/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/go!go!vanillas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Gods/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GOING STEADY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GOING UNDER GROUND/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Grand Funk Railroad/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GRAPEVINE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/GREAT3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Green Day/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Greta Van Fleet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Groovers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Gun/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Guns N&#039; Roses/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/H.E.A.T/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE HIGH-LOWS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/HUSKING BEE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Haircut One Hundred/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Harem Scarem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Heart/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -405,20 +396,23 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Helsinki Lambda Club/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Hi-STANDARD/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/High Tide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE HIGH-LOWS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Himesh Patel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Hit Parade/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The House of Love/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Huaska/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/HUSKING BEE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/INU/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/INXS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ian Gillan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Incubus/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Inspiral Carpets/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/INU/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/INXS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Iron Butterfly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Iron Maiden/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JAGUAR/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JET KELLY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JITTERIN&#039;JINN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JUDY AND MARY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JUN SKY WALKER(S)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JYOCHO/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Jam/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/James Iha/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Janis Joplin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -429,10 +423,8 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Jefferson Starship/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Jesus and Mary Chain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Jet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JET KELLY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Jethro Tull/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Jimi Hendrix Experience/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JITTERIN&#039;JINN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Jo Jo Gunne/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/John Lennon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/John Schroeder/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -440,19 +432,18 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Journey/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Judas Priest/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Judee Sill/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JUDY AND MARY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Juliana Hatfield Three/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Julien Baker/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JUN SKY WALKER(S)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/JYOCHO/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kansas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kate Bush/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/KEMURI/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ken Yokoyama/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/KENZI/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/KEYTALK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Khruangbin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE KIDS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/KODAMA AND THE DUB STATION BAND/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/KUSU KUSU/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kansas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kate Bush/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ken Yokoyama/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Khruangbin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/King Crimson/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/King Gnu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kingdom Come/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -460,15 +451,16 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kiss/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Knack/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Knack (60s)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/KODAMA AND THE DUB STATION BAND/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Korpiklaani/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kourosh Yaghmaei/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kula Shaker/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/KUSU KUSU/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Kyo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/L⇔R/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The La&#039;s/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LAUGHIN&#039; NOSE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LEPROUS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LOUDNESS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LU-NA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LUNA SEA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The La&#039;s/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Layne/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Leatherface/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Led Zeppelin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -476,60 +468,60 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Lemonheads/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Lenny Kravitz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/León Gieco/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LEPROUS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Limp Bizkit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Lisa Loeb and Nine Stories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Little River Band/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Living End/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Lobo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Lou Reed/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LOUDNESS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Louise attaque/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Love Sculpture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Loverboy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LU-NA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Lumineers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/LUNA SEA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Lush/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/L⇔R/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/M/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mac &amp; Katie Kissoon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE MAD CAPSULE MARKETS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Mamas and the Papas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MAN WITH A MISSION/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MEGA STOPPER/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE MODS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MONGOL800/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MOON CHILD/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MOTHBALL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mac &amp; Katie Kissoon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Mamas and the Papas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mary Hopkin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Matthew Sweet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/McBusted/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MEGA STOPPER/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Megadeth/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mew/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MiChi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Michael Jackson/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Michael Schenker Group/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Michel Polnareff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MiChi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mick Ronson/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Midge Ure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mika/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Minnie Riperton/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mitski/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE MODS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mogul Thrash/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MONGOL800/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Monkees/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Monochrome Set/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Montrose/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Moody Blues/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MOON CHILD/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Morrissey/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/MOTHBALL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mötley Crüe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Motörhead/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mott the Hoople/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Motörhead/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mountain/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mr Big (UK)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mr. Big/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mr.Children/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Muffs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/My Hair is Bad/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Mötley Crüe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/NIKIIE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/NUMBER GIRL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/NYAI/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/NakamuraEmi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Natural Gas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Nav Katze/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -538,30 +530,27 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Neon Bunny/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Night Flight Orchestra/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Night Ranger/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/NIKIIE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Nirvana (UK)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/NUMBER GIRL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Nuno/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/NYAI/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/OKAMOTO’S/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ORANGE RANGE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ORIGINAL LOVE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Oasis/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ocean Colour Scene/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Official髭男dism/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/oh! penelope/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/OKAMOTO’S/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ORANGE RANGE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Orchestral Manoeuvres in the Dark/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Original Broadway Cast of School of Rock/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ORIGINAL LOVE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Osmonds/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PERIDOTS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PERSONZ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PE’Z/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PUFFY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Paul Anka/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Paul McCartney &amp; Wings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Paul Weller/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PE’Z/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Pearl Jam/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Pentangle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/People In The Box/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PERIDOTS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PERSONZ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Pete Best Four/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Pete Dello And Friends/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Phunk Junkeez/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -571,24 +560,28 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Plastic Girl In Closet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Plastics/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Pleasure Seekers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PoPoyans/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Pogues/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Police/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/polly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Popguns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PoPoyans/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Posies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Power of Love/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Presidents Of The United States Of America/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Pretenders/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Procol Harum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Psysalia Psysalis Psyche/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/PUFFY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Qaijff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/qps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Queen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Queen + Paul Rodgers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Quiet Riot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/R.E.M./</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/RAZZ MA TAZZ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/RCサクセション/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/REO Speedwagon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/RIZE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ROGUE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE ROOSTERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE RYDERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Rabbitt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Radiohead/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Rage Against the Machine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -598,66 +591,63 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Randy California/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Raspberries/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ratt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/RAZZ MA TAZZ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/RCサクセション/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Red Hot Chilli Pipers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/REO Speedwagon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Rich Kids/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ride/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Riot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Rivermaya/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/RIZE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Rod Stewart/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Rods/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ROGUE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Romantics/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ronnie Dio &amp; The Prophets/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Room/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE ROOSTERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Roots/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Rough Cutt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Rubettes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Rufus Wainwright/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Rush/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE RYDERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SACHIKO by MAISON &quot;SEEK&quot;/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sade/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SCANDAL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SEX MACHINEGUNS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SHISHAMO/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SHOGUN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SHOTGUN RUNNERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SION/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SKAFUNK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SMILE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SNIPER/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SOON/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SPORTS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The STALIN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE STAR CLUB/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE STREET SLIDERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SUEMITSU &amp; THE SUEMITH/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SUM41/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SUNNY CAR WASH/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SUPERCAR/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sade/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Scorpions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Selda Bağcan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sepa/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SEX MACHINEGUNS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sham 69/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sheen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sheryl Crow/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SHISHAMO/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Shocking Blue/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SHOGUN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SHOTGUN RUNNERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sing Street/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SION/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SKAFUNK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Skindred/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Slade/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sleep Party People/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/sleepy.ab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Slik/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Slipknot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Small Faces/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Smashing Pumpkins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SMILE/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Smiths/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SNIPER/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Songbards/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sonic Youth/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sonohra/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SOON/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Spiral Life/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Spirit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SPORTS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Squeeze/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The STALIN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE STAR CLUB/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Starship/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Steppenwolf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Stereolab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -667,21 +657,15 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Stooges/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Stranglers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Stray/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE STREET SLIDERS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Struts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Style Council/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Styx/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Suchmos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Suddenly, Tammy!/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SUEMITSU &amp; THE SUEMITH/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Sufjan Stevens/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Sugarcubes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Suicide Machines/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SUM41/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/sumika/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Sundays/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SUNNY CAR WASH/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/SUPERCAR/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Superfly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Supertramp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Suzanne Vega/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -693,30 +677,28 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Szuters/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/T. Rex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TAK MATSUMOTO/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Tame Impala/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TAMTAM/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THEATRE BROOK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TOM★CAT/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TOPS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TOTALFAT/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TRANSISTOR GLAMOUR/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Tame Impala/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Tantrum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Teenage Fanclub/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/the telephones/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Television/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The The/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THEATRE BROOK/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/thee michelle gun elephant/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Thin Lizzy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Third Eye Blind/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Three Dog Night/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TOM★CAT/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Tommy Bolin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Tommy Emmanuel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Tomorrow/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Tonino/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TOPS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Tortoise/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TOTALFAT/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Toto/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Touch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Toy Dolls/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/TRANSISTOR GLAMOUR/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Traveling Wilburys/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Travis/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Trust/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -725,21 +707,23 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/T字路s/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/U2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/UFO/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ultravox/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/UNICORN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/UNISON SQUARE GARDEN/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Ultravox/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Uriah Heep/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Uru/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/VANILLA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Van Halen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Vanessa Paradis/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/VANILLA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Vashti Bunyan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Velvet Underground/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Verve/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Vibrators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Volbeat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Wallflowers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/WANIMA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE WILLARD/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/WINO/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Wallflowers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Weezer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Wells/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/What&#039;s Love?/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -747,24 +731,40 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Whitesnake/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The Who/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Wild Horses/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE WILLARD/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/WINO/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Wire/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Wishbone Ash/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/X/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Yamasuki Singers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/YELL FROM NIPPON/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Yellow Magic Orchestra/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/THE YELLOW MONKEY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Yes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/YeYe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/YKZ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/YUI/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Zaine Griff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Yamasuki Singers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/YeYe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Yellow Magic Orchestra/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Yes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ZAZEN BOYS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Zebra/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ZELDA/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ZIGGY/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Zaine Griff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/Zebra/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/advantage Lucy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/back number/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/bice/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/bloodthirsty butchers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/the brilliant green/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/caino/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/cero/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/dip/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/eastern youth/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/esrevnoc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/go!go!vanillas/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/oh! penelope/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/polly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/qps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/sleepy.ab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/sumika/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/the telephones/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/thee michelle gun elephant/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/あいみょん/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/青葉市子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/赤い鳥/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -773,17 +773,15 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/阿部真央/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/アボカド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/荒井由実/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/アン・ルイス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/アンジー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/アン・ルイス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/いずみたくシンガーズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/一風堂/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/忌野清志郎/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/忌野清志郎+坂本龍一/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ヴィーナス・ペーター/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/植木等/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ウォッカ・コリンズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/有頂天/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/the ウラシマ’S/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ウルフルズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/江口洋介/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/エレファントカシマシ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -804,7 +802,6 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/小野リサ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/オフコース/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/溺れたエビ!/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/カーネーション/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/海道はじめ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/甲斐バンド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/加川良 with TE-CHILI/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -819,8 +816,9 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/神森徹也/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/カラスは真っ白/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/かりゆし58/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ガロ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/川崎幸子・敏子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/カーネーション/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ガロ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/キセル/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/吉川晃司/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/キャ→/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -830,15 +828,15 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/金玉ガールズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/筋肉少女帯/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/草野マサムネ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/グッナイ小形/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/久保田早紀/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/クリープハイプ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/クリスタルキング/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/クリープハイプ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/くるり/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/区麗情/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/クレヨン社/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/黒夢/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/桑名正博/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/グッナイ小形/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/激しぶBOYS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ゲスの極み乙女。/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/外道/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -847,14 +845,7 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/小島麻由美/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/五島良子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ゴダイゴ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・ギャートルズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・クロマニヨンズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・タートルズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・ファントムギフト/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・モップス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・ルースターズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/西城秀樹/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/在日ファンク/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/サカナクション/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/サザンオールスターズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/佐藤聖子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -863,28 +854,33 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/許冠傑/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/沢田研二/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/サンハウス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/シーナ&amp;ザ・ロケッツ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/在日ファンク/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・ギャートルズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・クロマニヨンズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・タートルズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・ファントムギフト/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・モップス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ザ・ルースターズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/椎名林檎/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/シブがき隊/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/嶋崎由理/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/シャムキャッツ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/シャ乱Q/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ジューシィ・フルーツ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/シルバー・スターズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/神聖かまってちゃん/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/シーナ&amp;ザ・ロケッツ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ジューシィ・フルーツ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/陣内大蔵/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ズーカラデル/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/スカート/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/すかんち/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/スカート/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/すぎうらよしひろ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/鈴木祥子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ストレイテナー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/スピッツ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/スリー・グレイセス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ズーカラデル/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/世良公則&amp;ツイスト/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/センチメンタル・バス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/相対性理論/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ダウン・タウン・ブギウギ・バンド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/高田渡/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/高中正義/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/高野寛/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -894,53 +890,52 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/種ともこ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/たま/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/たむらぱん/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/チエ・カジウラ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ダウン・タウン・ブギウギ・バンド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/チェッカーズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/チャーリー・コーセー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/チエ・カジウラ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/チャットモンチー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/チャーリー・コーセー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/チューリップ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/つじあやの/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/椿屋四重奏/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/寺田十三夫/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/トータス松本/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/東京ビートルズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/戸川純/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/怒髪天/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/友川かずき/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/トランザム/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/トルネード竜巻/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/永井龍雲/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/トータス松本/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/怒髪天/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/中森明菜/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/永井龍雲/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ニューエスト・モデル/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ニューロティカ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/人間椅子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ねごと/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/パーシャクラブ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ハイハニDX/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/馬喰町バンド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/秦基博/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ばちかぶり/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/初恋の嵐/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/バトル・ロッカーズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/パノラマメロウ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/浜田省吾/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/浜田麻里/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/原田真二/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/バレーボウイズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ハンブレッダーズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ピース/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The ピーズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ヒートウェイヴ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/馬喰町バンド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ばちかぶり/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/バトル・ロッカーズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/バレーボウイズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/パノラマメロウ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/パーシャクラブ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ヒカシュー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/樋口了一/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ビッケブランカ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/100s/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/日吉ミミ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/平尾昌晃/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/平野レミ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ピロカルピン/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/弘田三枝子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/フーバーオーバー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ヒートウェイヴ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ビッケブランカ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ピロカルピン/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ピース/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ファズピックス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ファニー・カンパニー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/フィンガー5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -948,12 +943,13 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/福原美穂/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ふくろうず/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/フジファブリック/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/葡萄畑/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ふなっしー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/プププランド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/フラワーカンパニーズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ブリッジ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/フレデリック/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/フーバーオーバー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/葡萄畑/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ブリッジ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/プププランド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/辺見えみり/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ホイフェスタ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ホフディラン/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -989,13 +985,16 @@
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/レキシ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/レピッシュ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/レベッカ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ローザ・ルクセンブルグ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ローズマリー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/六角精児バンド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ロッテンハッツ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/和田アキ子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ローザ・ルクセンブルグ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ローズマリー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/渡辺真知子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/和田アキ子/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/旺福/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/ヴィーナス・ペーター/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/the ウラシマ’S/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cieloazul310.github.io/gatsby-rockman/artist/The ピーズ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/artists/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://cieloazul310.github.io/gatsby-rockman/corners/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
